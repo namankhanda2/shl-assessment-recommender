@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Java 8 Test",
+      "url": "https://www.shl.com",
+      "description": "Assessment for Java programming skills and backend development.",
+      "test_type": "K"
+    },
+    {
+      "name": "Python Test",
+      "url": "https://www.shl.com",
+      "description": "Assessment for Python programming and scripting skills.",
+      "test_type": "K"
+    },
+    {
+      "name": "OPQ32r",
+      "url": "https://www.shl.com",
+      "description": "Occupational personality questionnaire for workplace behavior.",
+      "test_type": "P"
+    },
+    {
+      "name": "Verify G+",
+      "url": "https://www.shl.com",
+      "description": "Cognitive and numerical reasoning assessment.",
+      "test_type": "A"
+    },
+    {
+      "name": "SQL Test",
+      "url": "https://www.shl.com",
+      "description": "Assessment for SQL and database querying skills.",
+      "test_type": "K"
+    }
+  ]

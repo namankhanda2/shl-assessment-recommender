@@ -82,8 +82,13 @@ url_map.json               legacy → verified current detail page mapping
 verification_report.json   per-URL audit (redirect + detail classification)
 verification_sample.json   quick sampled audit (never overwrites the full report)
 url_mapping_report.json    mapped vs unmappable summary
+frontend/                  standalone Streamlit UI (talks to /chat over HTTP)
+  streamlit_app.py         UI: query, count, loading/errors, result cards
+  api_client.py            Streamlit-free HTTP client (payload build + parsing)
+  requirements.txt         frontend-only deps (streamlit, httpx)
 tests/                     pytest / unittest suite
   test_improvements.py     role ranking, rationale grounding, URL transparency
+  test_frontend_api_client.py  frontend request/response + error handling
 ```
 
 ## 3. Installation
@@ -167,6 +172,34 @@ clients that ignore unknown keys are unaffected):
 (`current` / `verified_mapped`); a flagged legacy link is **never** reported as
 verified. The `/ui` page renders this as an *Official URL* vs *Legacy link*
 badge.
+
+## 6.1 Frontend (Streamlit UI)
+
+A standalone Streamlit app (`frontend/streamlit_app.py`) provides a richer UI
+than the built-in `/ui` page. It only calls the public `POST /chat` endpoint, so
+the backend is unchanged. It lets you:
+
+- enter a job description or hiring query;
+- pick the number of recommendations (1–10, sent as `k`);
+- see loading states and readable API errors (unreachable host, timeout,
+  HTTP ≥ 400, bad response);
+- view assessment name, test type, rationale and the **URL verification status**
+  (✅ Official URL vs ⚠️ Legacy link) per result.
+
+Install the frontend-only deps and run it:
+
+```bash
+pip install -r frontend/requirements.txt
+
+# Point at the deployed Render service:
+SHL_API_URL="https://<your-service>.onrender.com" \
+  streamlit run frontend/streamlit_app.py
+```
+
+Without `SHL_API_URL` it defaults to `http://localhost:8000`; the sidebar also
+lets you edit the base URL and run a connection check against `/health`.
+`frontend/api_client.py` holds the request/response logic (no Streamlit import)
+and is covered by `tests/test_frontend_api_client.py`.
 
 ## 7. Retrieval: BM25, embeddings, FAISS, hybrid
 

@@ -1,0 +1,4 @@
+# Extra dependencies for the standalone Streamlit frontend.
+# The backend deployment does not need these.
+streamlit>=1.30
+httpx>=0.27

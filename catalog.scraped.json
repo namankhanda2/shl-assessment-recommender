@@ -1,0 +1,114 @@
+[
+ {
+  "name": "SHL Motivational Questionnaire",
+  "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq",
+  "test_type": "P",
+  "test_types": [
+   "P"
+  ],
+  "description": "Build an engaged, high-performing workforce using our motivation questionnaire (MQ) by matching individual employee motivation to team and organizational goals.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "SHL Occupational Personality Questionnaire (OPQ)",
+  "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq",
+  "test_type": "P",
+  "test_types": [
+   "P"
+  ],
+  "description": "Our occupational personality questionnaire helps you to get accurate, bias-free assessments by matching individual working preferences to business requirements.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "Situational Judgement Tests",
+  "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt",
+  "test_type": "B",
+  "test_types": [
+   "B"
+  ],
+  "description": "Using our Situational Judgment Tests (SJT), you can measure candidates' behavioral fit to a given role by assessing their response to a specific work situation.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "SHL Global Skills Assessment",
+  "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa",
+  "test_type": "C",
+  "test_types": [
+   "C"
+  ],
+  "description": "SHL's Global Skills Assessment measures 96 behavioral skills in 15 minutes. Objective data for onboarding, upskilling, reskilling, and workforce planning.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "Universal Competency Framework (UCF)",
+  "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework",
+  "test_type": "C",
+  "test_types": [
+   "C"
+  ],
+  "description": "Learn how the Universal Competency Framework (UCF), which provides a rational, consistent, and practical basis for understanding people’s behaviors, can help you.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "SVAR Assessment: Measure Real Spoken Language, at Scale",
+  "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar",
+  "test_type": "K",
+  "test_types": [
+   "K"
+  ],
+  "description": "SHL SVAR is a spoken language assessment that uses AI-driven scoring to deliver fast, consistent results for hiring at scale.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ },
+ {
+  "name": "SHL Realistic Job Previews",
+  "url": "https://www.shl.com/products/assessments/behavioral-assessments/realistic-job-and-culture-previews-rjp",
+  "test_type": "B",
+  "test_types": [
+   "B"
+  ],
+  "description": "With our Realistic Job Previews, candidates can self-assess their fit with the role and with your company through a set of tasks and culture-based questions.",
+  "job_levels": [],
+  "duration": "",
+  "remote": false,
+  "adaptive": false,
+  "keys": [],
+  "verified": true,
+  "source": "shl.com"
+ }
+]

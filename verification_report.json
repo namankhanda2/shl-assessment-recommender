@@ -1,0 +1,3783 @@
+{
+ "checked": 377,
+ "verified": 0,
+ "unverified": 377,
+ "verdicts": {
+  "redirected": 377
+ },
+ "redirected_to_detail": 40,
+ "redirected_to_assessment_page": 238,
+ "records": [
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Global Skills Development Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET Framework 4.5",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET MVC (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET MVVM (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET WCF (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET WPF (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": ".NET XAML (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Accounts Payable (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Accounts Payable Simulation (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Accounts Receivable (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Accounts Receivable Simulation (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "ADO.NET (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Adobe Experience Manager (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Adobe Photoshop CC",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Aeronautical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Aerospace Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Agile Software Development",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Agile Testing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "AI Skills",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Amazon Web Services (AWS) Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Android Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Angular 6 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "AngularJS (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Apache Hadoop (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Apache Hadoop Extensions (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Apache HBase (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Apache Hive (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Apache Kafka (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Apache Pig (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Apache Spark (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "ASP .NET with C# (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "ASP.NET 4.5",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Assessment and Development Center Exercises",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata - Fix (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata - SQL (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata Data Science (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata Data Science Pro (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata Front End",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata Pro (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Automata Selenium",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Automation Anywhere RPA Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Automotive Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Basic Biology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Basic Computer Literacy (Windows 10) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Basic Statistics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Biochemistry (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Biotech Lab Techniques (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "BizTalk (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Business Communication (adaptive)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Business Communications",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "C Programming (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "C# Programming (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "C++ Programming (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Cardiology and Diabetes Management (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Ceramic Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Chemical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Cisco AppDynamics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Civil Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Cloud Computing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "COBOL Programming (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Computer Science (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Contact Center Call Simulation (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Conversational Multichat Simulation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Core Java (Advanced Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Core Java (Entry Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Count Out The Money",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "CSS3 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Culinary Skills (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Customer Service Phone Simulation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Customer Service Phone Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Cyber Risk (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Data Entry (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Data Entry Alphanumeric Split Screen - US",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Data Entry Numeric Split Screen - US",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Data Entry Ten Key Split Screen",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Data Science (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Data Warehousing Concepts",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Dependability and Safety Instrument (DSI)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Dermatology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Desktop Support (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Digital Advertising (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Digital Readiness Development Report - IC",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Digital Readiness Development Report - Manager",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Docker (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Dojo (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Drupal (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "DSI v1.1 Interpretation Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Econometrics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Economics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Electrical and Electronics Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Electrical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Electronics & Telecommunications Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Electronics and Embedded Systems Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Electronics and Semiconductor Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "English Comprehension (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Enterprise Java Beans (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Enterprise Leadership Report 1.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Enterprise Leadership Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Cashier Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Customer Serv-Retail & Contact Center",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Customer Service (General) Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Hotel Front Desk Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Sales Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Entry Level Technical Support Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "ETL Testing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Executive Scenarios",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Executive Scenarios Narrative Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Executive Scenarios Profile Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "ExpressJS (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Filing - Names (R1)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Filing - Numbers",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Financial Accounting (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Financial and Banking Services (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Fire Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Following Instructions v1 - UK (R1)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Following Instructions v1 - US (R2)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Food and Beverage Services (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Food Science (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Front Office Management (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Fundamentals of Chemistry (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Fundamentals of Physics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "General Diseases (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Geoinformatics Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Geoscience Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "GIT (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Global Skills Assessment",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Graduate Scenarios",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Graduate Scenarios Narrative Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Graduate Scenarios Profile Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Hibernate (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "HIPAA (Security)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "HiPo Assessment Report 1.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "HiPo Assessment Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "HiPo Unlocking Potential Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Housekeeping (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "HTML/CSS (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "HTML5 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Human Resources (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "IBM DataStage (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "IBM Sterling Order Management System (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Industrial Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Informatica (Architecture) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Informatica (Developer) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Instrumentation Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Interpersonal Communications",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Interviewing and Hiring Concepts (U.S.)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "iOS Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "ITIL (IT Infrastructure Library) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Java 8 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Java Design Patterns (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Java Frameworks (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Java Web Services (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "JavaScript (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Jenkins (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Job Control Language (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "jQuery (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Kubernetes (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Linux Administration (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Linux Operating System",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Linux Programming (General)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Load Runner (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Management Scenarios",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Managerial Scenarios Candidate Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Managerial Scenarios Narrative Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Managerial Scenarios Profile Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Manual Testing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Manufacturing & Industrial - Essential Focus 8.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Marketing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Maven (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Mechanical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Mechatronics Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Medical Terminology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Metallurgical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MFS 360 Enterprise Leadership Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MFS 360 UCF Group Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MFS 360 UCF Standard Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Micro Focus Unified Functional Testing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Microservices (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Microsoft Dynamics Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft Excel 365 - Essentials (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft \n    365 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft Outlook 2013 (adaptive)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft PowerPoint 365 - Essentials (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft SQL Server 2014 Programming",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Microsoft Windows Server 2012 Administration",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft Word 365 - Essentials (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Microsoft Word 365 (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Mineral Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Mining Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Mobility (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Molecular Biology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MongoDB (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Motivation Questionnaire MQM5",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "MQ Candidate Motivation Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "MQ Employee Motivation Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "MQ Motivation Report Pack",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "MQ Profile",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MS Access (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MS Excel (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "MS Office Basic Computer Literacy (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "MS Office Basic Computer Literacy (Sim) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "MS PowerPoint (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "MS Word (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "MuleSoft Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Multitasking Ability",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Networking and Implementation (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Node.js (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Nursing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Occupational Personality Questionnaire OPQ32r",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Operations Management (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Candidate Plus Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Candidate Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Emotional Intelligence Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Leadership Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Manager Plus Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Manager Plus Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Maximising your Learning Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ MQ Sales Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Premium Plus Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Premium Plus Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Profile Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Team Impact Group Development Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Team Impact Individual Development Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Team Impact Selection Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Team Types & Leadership Styles Profile",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "OPQ Team Types and Leadership Styles Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ UCF Development Action Planner Report 1.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ UCF Development Action Planner Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Universal Competency Report 1.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ Universal Competency Report 2.0",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ User and Managers Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "OPQ User Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Oracle DBA (Advanced Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Oracle DBA (Entry Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Oracle PL/SQL (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Oracle WebLogic Server (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Organic Chemistry (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Paint Technology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Pediatrics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Pega Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Perl (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Petrochemical Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Petroleum Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Pharmaceutical Analysis (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Pharmaceutical Chemistry (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Pharmaceutical Science (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Pharmaceutics (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Pharmacology (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "PHP (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "PJM Development Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "PJM Selection Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Polymer Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Power Electronics and Drives (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Power System Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Prism (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Production and Industrial Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Production Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Programming Concepts",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Project Management (2013)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Proofreading v1",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Python (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "R Programming (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "ReactJS (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Reading Comprehension - English v1",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Reading Comprehension - Spanish v1",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Reading Comprehension v2",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "RemoteWorkQ",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "RemoteWorkQ Manager Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "RemoteWorkQ Participant Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "RESTful Web Services (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Retail Sales and Service Simulation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Reviewing Forms - US (R1)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Ruby (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Ruby on Rails (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Sales & Service Phone Simulation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Sales & Service Phone Solution",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/video-interviews/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Interview Guide",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Profiler Cards",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Transformation 1.0 - Individual Contributor",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Transformation 2.0 - Individual Contributor",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Transformation Report 1.0 - Sales Manager",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Sales Transformation Report 2.0 - Sales Manager",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Salesforce Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP ABAP (Advanced Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP ABAP (Intermediate Level) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP Basis (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP Business Objects WebI (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP BW (Business Warehouse) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP HCM (Human Capital Management) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP Hybris (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP Materials Management (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SAP SD (Sales and Distribution) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Search Engine Optimization (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Selenium (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Shell Scripting (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SHL Verify Interactive - Inductive Reasoning",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SHL Verify Interactive – Deductive Reasoning",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SHL Verify Interactive – Numerical Reasoning",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SHL Verify Interactive G+",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SHL Verify Interactive Numerical Calculation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Siebel Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Smart Interview Live",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Smart Interview Live Coding",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/video-interviews/smart-interview-on-demand/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "Smart Interview On Demand",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Social Media (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Software Business Analysis",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SonarQube (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Spelling (U.S.) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Split Screen Typing Test - Form 1",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Spring (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SQL (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SQL Server (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SQL Server Analysis Services (SSAS) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SQL Server Integration Services (SSIS) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "SQL Server Reporting Services (SSRS) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Statistical Analysis System (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Struts (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken English (AUS)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken English (Indian Accent) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken English (U.K.)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken English (US) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken French (Canadian) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken French (European) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken Spanish (Castilian) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "SVAR - Spoken Spanish (North American) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Swing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Tableau (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Telecommunications Engineering (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Teradata Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Time Management (U.S.)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Training Development",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Typing (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "UiPath RPA Development (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Universal Competency Framework Interview Guide",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Universal Competency Framework Job profiling guide",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/",
+   "verdict": "redirected",
+   "final_is_detail": true,
+   "final_is_assessment": true,
+   "name": "Universal Competency Framework Profiler Cards (44)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "UNIX (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "VB.NET (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Deductive Reasoning",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Following Instructions",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - G+",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - General Ability Screen",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Inductive Reasoning (2014)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Numerical Ability",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Technical Checking - Next Generation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Verbal Ability - Next Generation",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify - Working with Information",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify G+ - Ability Test Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify G+ - Candidate Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify Interactive Ability Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify Interactive G+ Candidate Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify Interactive G+ Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Verify Interactive Process Monitoring",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Virtual Assessment and Development Centers",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Visual Basic for Applications (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Visual Comparison - UK",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Visual Comparison - US",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "VLSI and Embedded Systems (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "What Is The Value - US",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Workplace Administration Skills (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Workplace Health and Safety (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "WriteX - Email Writing (Customer Service) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "WriteX - Email Writing (Managerial) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "WriteX - Email Writing (Sales) (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Written English v1",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Written Spanish",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": true,
+   "name": "Zabbix (New)",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "360 Digital Report",
+   "verified": false
+  },
+  {
+   "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+   "status": 200,
+   "final_url": "https://www.shl.com/products/360/",
+   "verdict": "redirected",
+   "final_is_detail": false,
+   "final_is_assessment": false,
+   "name": "360° Multi-Rater Feedback System (MFS)",
+   "verified": false
+  }
+ ],
+ "generated_at": "2026-10-09T09:33:13Z"
+}
